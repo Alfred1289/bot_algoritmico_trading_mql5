@@ -1,0 +1,1 @@
+# bot_algoritmico_trading_mql5
